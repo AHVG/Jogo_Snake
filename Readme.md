@@ -1,8 +1,5 @@
 # Jogo Snake versão diferente
 
-
-##
-
 ### Sobre
 ### Projeto de escola | Matéria - Programação em C
 
